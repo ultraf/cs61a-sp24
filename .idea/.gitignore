@@ -4,4 +4,5 @@
 
 __pycache__
 .ok*
-ok
+.idea
+.yaml

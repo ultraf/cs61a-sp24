@@ -7,55 +7,61 @@ test = {
         {
           'code': r"""
           >>> boar_brawl(21, 46)
-          9
+          872dbe4a4fe5d8451aa842c21194c866
+          # locked
           """,
           'hidden': False,
-          'locked': False,
+          'locked': True,
           'multiline': False
         },
         {
           'code': r"""
           >>> boar_brawl(52, 79)
-          15
+          af0b3285304485122429774c0ea3182a
+          # locked
           """,
           'hidden': False,
-          'locked': False,
+          'locked': True,
           'multiline': False
         },
         {
           'code': r"""
           >>> boar_brawl(0, 0)
-          1
+          43d176e102c8d95338faf8791aa509b3
+          # locked
           """,
           'hidden': False,
-          'locked': False,
+          'locked': True,
           'multiline': False
         },
         {
           'code': r"""
           >>> boar_brawl(0, 5)
-          1
+          43d176e102c8d95338faf8791aa509b3
+          # locked
           """,
           'hidden': False,
-          'locked': False,
+          'locked': True,
           'multiline': False
         },
         {
           'code': r"""
           >>> boar_brawl(2, 5)
-          6
+          327b19ffebddf93982e1ad2a4a6486f4
+          # locked
           """,
           'hidden': False,
-          'locked': False,
+          'locked': True,
           'multiline': False
         },
         {
           'code': r"""
           >>> boar_brawl(7, 2)
-          21
+          6790f7070fa643e868f99363486b6275
+          # locked
           """,
           'hidden': False,
-          'locked': False,
+          'locked': True,
           'multiline': False
         },
         {
@@ -88,10 +94,11 @@ test = {
         {
           'code': r"""
           >>> boar_brawl(72, 29)
-          1
+          43d176e102c8d95338faf8791aa509b3
+          # locked
           """,
           'hidden': False,
-          'locked': False,
+          'locked': True,
           'multiline': False
         },
         {
